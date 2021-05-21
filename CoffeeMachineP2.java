@@ -6,7 +6,7 @@ public class CoffeeMachineP2 {
         Scanner scanner = new Scanner(System.in);
         boolean ordered = true;
         boolean increase = true;
-        int numberTwo = 0; 
+        int numberTwo = 0; // проверить Stage2/3 на https://hyperskill.org/
         int numberOne = 0;
         int numberPrew = 0;
         while (true) {
